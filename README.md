@@ -1,4 +1,5 @@
 # hackslash pettts.com
 
-35.162.12.121:8080
-~~http://54.189.196.49:8080~~
+A WebApp for selling,finding lost,adopting pets
+
+Written in Express&Angular.js
